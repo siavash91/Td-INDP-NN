@@ -18,3 +18,12 @@ Siavash Alemzadeh, Hesam Talebiyan, Shahriar Talebi, Leonardo Due&#241;as-Osorio
   &emsp; &emsp;
   <img src=Figures/Scheme.png width="450" height="230" />
 </p> <br> <br>
+
+<div align="justify"> The contributions of our work are as follows: (1) We employ \ac{NN} models and train them with high-fidelity restoration strategies devised by a \ac{MIP} formulation to predict restoration strategies in real-time, (2) we find the most efficient number of required resources based on multiple pre-trained models given the specific damage scenario (\Cref{fig:main-model}), (3) we study meaningful realizations from the learned models that provide insights about restoration dynamics and the role of network interdependencies, and (4) we provide the set of labeled data that we have collected from the simulator on Shelby County, TN testbed. </div> <br>
+
+<p float="left">
+  &emsp;
+  <img src=Figures/Matrix.png width="350" height="323" />
+  &emsp; &emsp;
+  <img src=Figures/NN.png width="473" height="323" />
+</p> <br> <br>
