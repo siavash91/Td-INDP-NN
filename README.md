@@ -23,7 +23,7 @@ Siavash Alemzadeh, Hesam Talebiyan, Shahriar Talebi, Leonardo Due&#241;as-Osorio
 
 <p float="left">
   &emsp;
-  <img src=Figures/Matrix.png width="350" height="323" />
+  <img src=Figures/Matrix.png width="330" height="305" />
   &emsp; &emsp;
-  <img src=Figures/NN.png width="473" height="323" />
+  <img src=Figures/NN.png width="447" height="305" />
 </p> <br> <br>
