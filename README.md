@@ -15,6 +15,6 @@ Siavash Alemzadeh, Hesam Talebiyan, Shahriar Talebi, Leonardo Due&#241;as-Osorio
 <p float="left">
   &emsp;
   <img src=Figures/Map.PNG width="300" height="230" />
-  &emsp; &emsp; &emsp;
+  &emsp; &emsp;
   <img src=Figures/Scheme.png width="460" height="242" />
 </p> <br> <br>
