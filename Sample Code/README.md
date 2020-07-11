@@ -32,4 +32,6 @@ The dataset is provided in separate folders: <br>
 
 <div align="justify"> Each row represents the recovery state of one node in T=20 steps. For instance, in the figure above, node 12 is damaged (value equal to zero) in the beginning of the recovery process and gets fixed at time-step t=4. Each column denotes the time-step. The goal of our method approximates the pattern of recovery shown the figure above. We use the augmented scenarios as our training set and the original scenarios as the test set. We then evaluate the accuracy of our trained model by calculating an index measure called Accuracy Radius **AR**, which is defined as the acceptable margin of prediction provided by the trained neural net. The results provided below are discussed in detail in the manuscript. </div> <br>
 
-<img src=../Figures/AccuracyVsMag.png width="600" height="400" /> <br>
+<p align="center">
+  <img src=../Figures/AccuracyVsMag.png width="600" height="400" />
+</p>
