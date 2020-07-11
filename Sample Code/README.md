@@ -26,11 +26,11 @@ The dataset is provided in separate folders: <br>
 
 ## How to interpret the data sheets:
 
-<div align="justify"> Each processed labeled data is provided in three .csv files that contain the recovery time-series data of 49 water, 16 gas, and 60 power nodes respectively. The information in the tables are in the form of the figure below: </div> <br>
+<div align="justify"> Each processed scenario is provided in three .csv files that contain the recovery time-series data of 49 water, 16 gas, and 60 power nodes respectively. The information in the tables are in the form of the figure below: </div> <br>
 
 <img src=../Figures/Table_guide.PNG width="1000" height="466" /> <br>
 
-<div align="justify"> Each row represents the recovery state of one node in T=20 steps. For instance, in the figure above, node 12 is damaged (value equal to zero) in the beginning of the recovery process and gets fixed at time-step t=4. Each column denotes the time-step. The goal of our method approximates the pattern of recovery shown the figure above. We use the augmented scenarios as our training set and the original scenarios as the test set. We then evaluate the accuracy of our trained model by calculating an index measure called Accuracy Radius (AR), which is defined as the acceptable margin of prediction provided by the trained neural net. The results provided below are detailed in the manuscript. </div> <br>
+<div align="justify"> Each row represents the recovery state of one node over T=20 steps and each column denotes the time-step. For instance, in the scenario given above, node No. 12 is initially damaged in the beginning of the recovery process (value equal to zero at t=0) and gets fixed at time-step t=4. The goal of our method is to approximate the pattern of recovery due to the simulator as shown in the figure above. We use the augmented scenarios (40,000) as our training set and the original scenarios (4,000) as the test set. We then evaluate the accuracy of our trained model by calculating an index measure called Accuracy Radius (AR), which is defined as the acceptable margin of prediction provided by the model. The results depicted below are detailed in the manuscript. </div> <br>
 
 <p align="center">
   <img src=../Figures/AccuracyVsMag.png width="600" height="400" />
