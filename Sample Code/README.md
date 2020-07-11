@@ -28,4 +28,6 @@ The dataset is provided in separate folders: <br>
 
 <div align="justify"> Each processed labeled data is provided in three .csv files that contain the recovery time-series data of 49 water, 16 gas, and 60 power nodes respectively. The information in the tables are in the form of the figure below: </div> <br>
 
-<img src=../Figures/Table_guide.PNG width="1000" height="466" />
+<img src=../Figures/Table_guide.PNG width="1000" height="466" /> <br>
+
+<div align="justify"> Each row represents the recovery state of one node in T=20 steps. For instance, in the figure above, node 12 is damaged (value equal to zero) in the beginning of the recovery process and gets fixed at time-step t=4. Each column denotes the time-step. </div>
