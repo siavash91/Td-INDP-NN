@@ -2,7 +2,7 @@
 
 In this folder, we provide the codes and the link to the processed labeled dataset of this project. <br>
 
-The data can be downloaded from this [**link**](https://drive.google.com/drive/folders/152SPVDyGgWmKyslWacTM4tLeYTRvMQPg?usp=sharing). <br> <br>
+The data can be downloaded from this [**link**](https://drive.google.com/drive/folders/152SPVDyGgWmKyslWacTM4tLeYTRvMQPg?usp=sharing). <br>
 
 ---
 
@@ -12,7 +12,7 @@ The dataset is provided in separate folders: <br>
 
 <div align="justify"> In this folder, we provide data for 1,000 damage scenarios based on simulated seismic scenarios with magnitude m={6,7,8,9} (4,000 scenarios in total). The seismic scenarios are computed based on the earthquake catalog of the area encompassing Shelby Count, TN. The data is given as input to td-INDP for T=20 time-steps. We provide similar data sheets given number of resources R<sub>c</sub>={2,3,...,8}. For further details, the user is referred to the following paper. </div> <br>
 
-[**Link to the paper**](https://onlinelibrary.wiley.com/doi/full/10.1111/mice.12171?casa_token=Dx3wgv1vfkUAAAAA%3ANI2tStQRoTCrj5AmZ7LchqlvQYhmyoHHC35rgz6x39eRDvtURRIUnPeNq0uhbUxSFu-XYd06JdhDEUY) <br> <br>
+[**Link to the paper**](https://onlinelibrary.wiley.com/doi/full/10.1111/mice.12171?casa_token=Dx3wgv1vfkUAAAAA%3ANI2tStQRoTCrj5AmZ7LchqlvQYhmyoHHC35rgz6x39eRDvtURRIUnPeNq0uhbUxSFu-XYd06JdhDEUY) <br>
 
 ---
 
