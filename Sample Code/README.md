@@ -28,4 +28,4 @@ The dataset is provided in separate folders: <br>
 
 <div align="justify"> Each processed labeled data is provided in three .csv files that contain the recovery time-series data of 49 water, 16 gas, and 60 power nodes respectively. The information in the tables are in the form of the figure below: </div> <br>
 
-<img src=../Figures/Table_guide.PNG width="900" height="419" />
+<img src=../Figures/Table_guide.PNG width="1000" height="466" />
