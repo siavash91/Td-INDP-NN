@@ -18,6 +18,10 @@ The dataset is provided in separate folders: <br>
 
 ### [Augmented Damage Scenarios](https://drive.google.com/drive/folders/1ax1L9eTA0WaA-mOWe6dOAkIKEp3sj4g2?usp=sharing)
 
-<div align="justify"> To make our model more generalizable, we augment the original damage scenarios by perturbing the original 4,000 scenarios discussed above. To this end, we choose a random number of nodes in the network and flip their binary values. Then we feed these perturbed scenarios to the simulator to obtain the labels for new training data. Consequently, we obtain 10,000 input-output data from the simulator for each earthquake magnitude ($40,000$ in total). Since the learning is more demanding for higher magnitudes of earthquake, for experimental purposes, we extend this process for m=9 (highest earthquake magnitude the simulator handles) and generate 40,000 more tailor-made scenarios for this magnitude (hence, 50,000 scenarios for m=9 and 10,000 for each of m={6,7,8}). Notes that this folder only contains the intial points (at time-step t=0) of the scenarios. Please check out the following folder to obtain the simulation labeled data for T=20 time-steps. </div> <br>
+<div align="justify"> To make our model more generalizable, we augment the original damage scenarios by perturbing the original 4,000 scenarios discussed above. To this end, we choose a random number of nodes in the network and flip their binary values. Then we feed these perturbed scenarios to the simulator to obtain the labels for new training data. Consequently, we obtain 10,000 input-output data from the simulator for each earthquake magnitude (40,000 in total). Since the learning is more demanding for higher magnitudes of earthquake, for experimental purposes, we extend this process for m=9 (highest earthquake magnitude that td-INDP can handle) and generate 40,000 more tailor-made scenarios (hence, 50,000 scenarios for m=9 and 10,000 for each of m={6,7,8}). Notes that this folder only contains the intial points (i.e., recovery state vector at time-step t=0) of the scenarios. Please check out the following folder to obtain the simulation labeled data for T=20 time-steps. </div> <br>
   
- [**Link to the folder**](https://drive.google.com/drive/folders/1HzQ2BW7rGoIW2m0TyxUoqJ2Y87jO19Qp?usp=sharing) 
+ [**Link to the folder**](https://drive.google.com/drive/folders/1HzQ2BW7rGoIW2m0TyxUoqJ2Y87jO19Qp?usp=sharing) <br>
+ 
+ ---
+
+How to interpret the data: <br>
