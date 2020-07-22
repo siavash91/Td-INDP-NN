@@ -4,7 +4,7 @@
 In this repository, we provide the details of the implementation of the following manuscript: <br> <br>
 
 
-### Deep Learning-based Resource Allocation for Infrastructure Resilience
+### [Deep Learning-based Resource Allocation for Infrastructure Resilience](https://arxiv.org/abs/2007.05880)
 
 Siavash Alemzadeh, Hesam Talebiyan, Shahriar Talebi, Leonardo Due&#241;as-Osorio, Mehran Mesbahi <br> <br>
 
